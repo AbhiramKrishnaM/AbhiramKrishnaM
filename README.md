@@ -4,9 +4,7 @@
 <a href='https://twitter.com/AbhiramKrishnaM'><img align='left' alt="twitter" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/assets/twitter.svg" height='18px'/></a>
 <br/>
 
-I am a Philomath 🖥️💡📚,
-
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
+I am a Philomath 🖥️💡📚, currently i consider myself as a Full stack Web developer 🕸️. I belive in the paradigm of efficiency and cleaner code i try to implement it in my work as best as i can.
 
 <br/>
 <br/>
