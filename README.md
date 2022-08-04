@@ -49,6 +49,8 @@ I am a Philomath 🖥️💡📚, I consider myself as a Full stack Web develope
 ### 📊 Github Stats
 
 <a href='https://github.com/AbhiramKrishnaM/github-stats-transparent'>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AbhiramKrishnaM&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
   
 ![Stats Overview](https://raw.githubusercontent.com/AbhiramKrishnaM/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/AbhiramKrishnaM/github-stats-transparent/output/generated/languages.svg)
