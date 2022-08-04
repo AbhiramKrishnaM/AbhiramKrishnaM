@@ -26,6 +26,8 @@ I am a Philomath 🖥️💡📚, I consider myself as a Full stack Web develope
 
 ### 🔨 Languages and Tools:
 
+<br>
+
 <a href="https://vuejs.org/" target="_blank"> <img align="left" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/vuejs.png" alt="pytorch" height="30px"/> </a>
 <a href="https://nuxtjs.org/" target="_blank"> <img align="left" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/nuxtjs.png" alt="tensorflow" height="30px"/> </a>
 <a href="https://svelte.dev/" target="_blank"><img align="left" alt="Python" height ="30px" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/svelte.png"></a>
