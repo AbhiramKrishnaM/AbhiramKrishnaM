@@ -4,7 +4,7 @@
 <a href='https://twitter.com/AbhiramKrishnaM'><img align='left' alt="twitter" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/assets/twitter.svg" height='18px'/></a>
 <br/>
 
-I am a Philomath 🖥️💡📚, currently i consider myself as a Full stack Web developer 🕸️. I belive in the paradigm of efficiency and cleaner code, i try to implement it in my work as best as i can.
+I am a Philomath 🖥️💡📚, I consider myself as a Full stack Web developer 🕸️. I write code in a way that it could be understood and easily maintained by a complete beginner 👶. Writing efficient code is an experience you get from your journey as a software developer, increasing my knowledge 0.01% per day. Crazy about web graphics, excited about machine learning and impressed by go 😉.
 
 <br/>
 <br/>
