@@ -4,12 +4,12 @@
 <a href='https://twitter.com/AbhiramKrishnaM'><img align='left' alt="twitter" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/assets/twitter.svg" height='18px'/></a>
 <br/>
 
-I am a Philomath 🖥️💡📚, currently i consider myself as a Full stack Web developer 🕸️. I belive in the paradigm of efficiency and cleaner code i try to implement it in my work as best as i can.
+I am a Philomath 🖥️💡📚, currently i consider myself as a Full stack Web developer 🕸️. I belive in the paradigm of efficiency and cleaner code, i try to implement it in my work as best as i can.
 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/assets/computerGuy.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
