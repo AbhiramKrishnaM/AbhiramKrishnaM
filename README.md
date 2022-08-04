@@ -30,10 +30,11 @@ I am a Philomath 🖥️💡📚, I consider myself as a Full stack Web develope
 <a href="https://nuxtjs.org/" target="_blank"> <img align="left" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/nuxtjs.png" alt="tensorflow" height="30px"/> </a>
 <a href="https://svelte.dev/" target="_blank"><img align="left" alt="Python" height ="30px" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/svelte.png"></a>
 <a href="https://go.dev/" target="_blank"> <img align="left" alt="Android" height ="30px" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/go.png"> </a>
-<br>
-<br>
+
 <a href="https://nodejs.dev/" target="_blank"><img align="left" alt="Kotlin" height ="30px" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/node.png"></a>
 <a href="https://expressjs.com/" target="_blank"><img align="left" alt="Java" height ="30px" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/express.png"></a>
+<br>
+<br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/javascript.png" alt="firebase" height ="30px"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="JavaScript" height ="30px"  src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/typescript.png"> </a>
 <br>
