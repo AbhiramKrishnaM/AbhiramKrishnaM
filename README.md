@@ -13,17 +13,13 @@ I am a Philomath 🖥️💡📚, I consider myself as a Full stack Web develope
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript;
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
+- 🔭 &nbsp; I’m currently working on UI I like, Just some side projects.
+- 🌱 &nbsp; I’m currently learning Go and Svelte;
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/AbhiramKrishnaM?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
-
-<br>
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abhiram-krishna/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1oNDNq2zxZLuMA9rGPxsGKGx_avlUA9yQ/view?usp=sharing)
+  <br>
 
 ### 🔨 Languages and Tools:
 
