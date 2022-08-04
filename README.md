@@ -9,7 +9,7 @@ I am a Philomath 🖥️💡📚, currently i consider myself as a Full stack We
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/assets/coding.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/assets/coding.gif" />
   
 ### 🧐 More About Me:
 
