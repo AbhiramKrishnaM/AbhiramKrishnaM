@@ -20,6 +20,8 @@ I am a Philomath 🖥️💡📚, I consider myself as a Full stack Web develope
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abhiram-krishna/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1oNDNq2zxZLuMA9rGPxsGKGx_avlUA9yQ/view?usp=sharing)
   <br>
+  <br>
+  <br>
 
 ### 🔨 Languages and Tools:
 
@@ -37,8 +39,6 @@ I am a Philomath 🖥️💡📚, I consider myself as a Full stack Web develope
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
-<br>
-<br>
 <br>
 
 ### 📊 Github Stats
