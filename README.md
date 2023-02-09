@@ -4,7 +4,13 @@
 <a href='https://twitter.com/AbhiramKrishnaM'><img align='left' alt="twitter" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/assets/twitter.svg" height='18px'/></a>
 <br/>
 
-I am a Philomath 🖥️💡📚, a Full stack Web developer 🕸️ a Tech enthusiast 👨‍💻. I write code in a way that it could be understood and easily maintained by a complete beginner👶. Writing efficient code is an experience you get from your journey as a software developer, increasing my knowledge 0.01% per day. Crazy about animated 3D graphics, excited about machine learning and impressed by go 😉.
+Hi, I'm a software developer who is self-taught and has a degree in Computer Science. I'm fascinated by full-stack engineering and I have a real passion for technology and computers. I love learning new things and expanding my knowledge, and I'm currently focused on enhancing my skills in Docker, Elixr, and React.
+
+I take pride in my work and am dedicated to delivering high-quality results, whether I'm working on my own projects or collaborating with a team. I have a strong work ethic and an eye for detail, and I enjoy solving complex problems and pushing the limits of what's possible.
+
+I'm also really interested in the world of Solidity and the potential of decentralized technologies. I believe in the power of these technologies to make a positive impact, and I'm always looking for new ways to learn and grow in this field.
+
+Overall, I'm driven to stay ahead of the curve in the tech industry and I'm committed to continuous learning. I'm eager to take on new challenges and make a difference through my work as a software developer.
 
 <br/>
 <br/>
