@@ -4,7 +4,11 @@
 <a href='https://twitter.com/AbhiramKrishnaM'><img align='left' alt="twitter" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/assets/twitter.svg" height='18px'/></a>
 <br/>
 
-Hey there! I'm a tech-savvy, self-taught software developer with a Computer Science degree under my belt. Full-stack engineering is my jam and I'm always on the lookout for new technology to sink my teeth into. My passion for computers and tech is insatiable and I love learning new things and improving my skills. Right now, I'm focused on mastering Docker, Elixr, and React. I'm also super excited about the world of Solidity and the possibilities of decentralized tech. I believe these advancements have the power to change the world for the better and I'm always looking for opportunities to grow and learn in this field. In short, I'm dedicated to staying ahead of the curve in the tech industry and always hungry for new challenges. Let's build something amazing together!
+Hi there! I'm a tech-savvy software developer with a degree in Computer Science. Full-stack engineering is my passion and I'm always eager to explore new technologies. Currently, I'm honing my skills in Docker, Elixr, and React.
+
+I'm also excited about the potential of decentralized technologies, particularly in the realm of Solidity. I believe these advancements can make a positive impact and I'm constantly seeking opportunities to learn and grow in this field.
+
+I strive to stay ahead of the tech industry and am always up for a challenge. Let's work together to create something amazing!
 
 <br/>
 <br/>
