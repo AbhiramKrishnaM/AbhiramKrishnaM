@@ -4,13 +4,7 @@
 <a href='https://twitter.com/AbhiramKrishnaM'><img align='left' alt="twitter" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/assets/twitter.svg" height='18px'/></a>
 <br/>
 
-Hi, I'm a software developer who is self-taught and has a degree in Computer Science. I'm fascinated by full-stack engineering and I have a real passion for technology and computers. I love learning new things and expanding my knowledge, and I'm currently focused on enhancing my skills in Docker, Elixr, and React.
-
-I take pride in my work and am dedicated to delivering high-quality results, whether I'm working on my own projects or collaborating with a team. I have a strong work ethic and an eye for detail, and I enjoy solving complex problems and pushing the limits of what's possible.
-
-I'm also really interested in the world of Solidity and the potential of decentralized technologies. I believe in the power of these technologies to make a positive impact, and I'm always looking for new ways to learn and grow in this field.
-
-Overall, I'm driven to stay ahead of the curve in the tech industry and I'm committed to continuous learning. I'm eager to take on new challenges and make a difference through my work as a software developer.
+Hey there! I'm a tech-savvy, self-taught software developer with a Computer Science degree under my belt. Full-stack engineering is my jam and I'm always on the lookout for new technology to sink my teeth into. My passion for computers and tech is insatiable and I love learning new things and improving my skills. Right now, I'm focused on mastering Docker, Elixr, and React. I'm also super excited about the world of Solidity and the possibilities of decentralized tech. I believe these advancements have the power to change the world for the better and I'm always looking for opportunities to grow and learn in this field. In short, I'm dedicated to staying ahead of the curve in the tech industry and always hungry for new challenges. Let's build something amazing together!
 
 <br/>
 <br/>
