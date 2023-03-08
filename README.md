@@ -18,7 +18,7 @@ I strive to stay ahead of the tech industry and am always up for a challenge. Le
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on some UI, Just some side projects.
-- 🌱 &nbsp; I’m currently learning Go and Svelte;
+<!-- - 🌱 &nbsp; I’m currently learning Go and Svelte; -->
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/AbhiramKrishnaM?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abhiram-krishna/)
