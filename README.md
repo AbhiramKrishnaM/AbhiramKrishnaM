@@ -45,8 +45,10 @@ I strive to stay ahead of the tech industry and am always up for a challenge. Le
 </a>
 
 <a href="https://expressjs.com/" target="_blank">
-  <img align="left" alt="Java" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/express.png" height="30px">
+  <img align="left" alt="Java" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/express-js.png" height="30px">
 </a>
+
+
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
   <img align="left" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/javascript.png" alt="firebase" height="30px"/> 
