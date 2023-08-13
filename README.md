@@ -34,8 +34,7 @@ I strive to stay ahead of the tech industry and am always up for a challenge. Le
 <a href="https://nuxtjs.org/" target="_blank"> <img align="left" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/nuxtjs.png" alt="tensorflow" height="30px"/> </a>
 <!-- <a href="https://svelte.dev/" target="_blank"><img align="left" alt="Python" height ="30px" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/svelte.png"></a> -->
 <!-- <a href="https://go.dev/" target="_blank"> <img align="left" alt="Android" height ="30px" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/go.png"> </a> -->
-<br>
-<br>
+
 <a href="https://nodejs.dev/" target="_blank"><img align="left" alt="Kotlin" height ="30px" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/node.png"></a>
 <a href="https://expressjs.com/" target="_blank"><img align="left" alt="Java" height ="30px" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/express.png"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/javascript.png" alt="firebase" height ="30px"/> </a>
