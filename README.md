@@ -1,9 +1,6 @@
 ## Hey 👋, I'm Abhiram Krishna!
 👨‍💻 Dedicated Software Engineer at the helm of Monetavers, a project poised to revolutionize money management. Concurrently laying the groundwork for my portfolio, where Vue, Three.js, and TailwindCSS come into play. In the rapid currents of tech, I stand resilient, always eager to harness the next wave of innovation.
 
-<br/>
-<br/>
-
 <!-- <img align="right" alt="SVG" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/assets/coding.svg" width="360px" /> -->
   
 ### 🧐 More About Me:
@@ -11,11 +8,8 @@
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abhiram-krishna/)
 <!-- - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1oNDNq2zxZLuMA9rGPxsGKGx_avlUA9yQ/view?usp=sharing) -->
-  <br>
-  <br>
 
 ### 🔨 Languages and Tools:
-
 <br>
 <a href="https://vuejs.org/" target="_blank"> 
   <img align="left" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/vuejs.png" alt="pytorch" height="30px"/> 
@@ -46,8 +40,6 @@
   <img align="left" alt="JavaScript" height="30px"  src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/typescript.png"> 
 </a>
 
-<br>
-<br>
 
 <a href="https://www.docker.com/" target="_blank">
   <img align="left" alt="Typescirpt" height="30px" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/docker.png">
@@ -73,8 +65,6 @@
 <a href="https://redis.io" target="_blank">
   <img src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/redis.png" align="left" alt="git" height='30px'/>
 </a>
-<br>
-<br>
 <a href="https://tailwindcss.com/" target="_blank">
   <img align="left" alt="Typescirpt" height="30px" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/tailwind.png">
 </a>
