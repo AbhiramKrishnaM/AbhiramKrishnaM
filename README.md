@@ -3,7 +3,7 @@
 
 <!-- <img align="right" alt="SVG" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/assets/coding.svg" width="360px" /> -->
   
-## 🔨 Languages and Tools:
+## 🔨 Languages and Tools
 <a href="https://vuejs.org/" target="_blank"> 
   <img align="left" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/vuejs.png" alt="pytorch" height="30px"/> 
 </a>
