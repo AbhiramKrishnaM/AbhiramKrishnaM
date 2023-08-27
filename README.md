@@ -3,12 +3,6 @@
 
 <!-- <img align="right" alt="SVG" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/assets/coding.svg" width="360px" /> -->
   
-### 🧐 More About Me:
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/AbhiramKrishnaM?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abhiram-krishna/)
-<!-- - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1oNDNq2zxZLuMA9rGPxsGKGx_avlUA9yQ/view?usp=sharing) -->
-
 ### 🔨 Languages and Tools:
 <br>
 <a href="https://vuejs.org/" target="_blank"> 
@@ -69,22 +63,14 @@
   <img align="left" alt="Typescirpt" height="30px" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/tailwind.png">
 </a>
 
-<!-- ### 📊 Github Stats
+## 🚀 Current Endeavors
+    🌌 Working on Monetaverse: Diving deep into handling money, managing crypto transactions, and exploring more financial solutions.
 
-<a href='https://github.com/AbhiramKrishnaM/github-stats-transparent'>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=AbhiramKrishnaM&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
-</a> -->
+    🖥️ Portfolio Development: Actively working on designing and developing my personal portfolio website.
 
-<br>
+    📚 Reading: Engrossed in "Atomic Habits" by James Clear, delving into the science of habits and personal growth.
 
 ##
 <a href='https://www.linkedin.com/in/abhiram-krishna/'><img align='left' alt="linkedin" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/AbhiramKrishnaM'><img align='left' alt="twitter" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/assets/twitter.svg" height='18px'/></a>
 <br/>
-
-<!-- ### 🛠️ My Projects
-
-<a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a> -->
