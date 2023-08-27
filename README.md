@@ -73,10 +73,18 @@ I strive to stay ahead of the tech industry and am always up for a challenge. Le
   <img align="left" alt="Node.js" height ="30px" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/postgres.png">
 </a>
 
-<a href="https://www.figma.com" target="_blank">
-  <img src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/figma.png" align="left" alt="git" height='30px'/>
+<a href="https://kubernetes.io/" target="_blank">
+  <img src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/kubernetes.png" align="left" alt="git" height='30px'/>
 </a>
 
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/aws.png" align="left" alt="git" height='30px'/>
+</a>
+
+
+<a href="https://redis.io" target="_blank">
+  <img src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/redis.png" align="left" alt="git" height='30px'/>
+</a>
 <br>
 <br>
 
