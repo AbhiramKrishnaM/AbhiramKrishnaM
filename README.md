@@ -87,6 +87,9 @@ I strive to stay ahead of the tech industry and am always up for a challenge. Le
 </a>
 <br>
 <br>
+<a href="https://tailwindcss.com/" target="_blank">
+  <img align="left" alt="Typescirpt" height="30px" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/tailwind.png">
+</a>
 
 <!-- ### 📊 Github Stats
 
