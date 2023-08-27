@@ -3,12 +3,7 @@
 <a href='https://www.linkedin.com/in/abhiram-krishna/'><img align='left' alt="linkedin" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/AbhiramKrishnaM'><img align='left' alt="twitter" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/assets/twitter.svg" height='18px'/></a>
 <br/>
-
-Hi there! I'm a tech-savvy software developer with a degree in Computer Science. Full-stack engineering is my passion and I'm always eager to explore new technologies. Currently, I'm honing my skills in Docker, Elixr, and React.
-
-I'm also excited about the potential of decentralized technologies, particularly in the realm of Solidity. I believe these advancements can make a positive impact and I'm constantly seeking opportunities to learn and grow in this field.
-
-I strive to stay ahead of the tech industry and am always up for a challenge. Let's work together to create something amazing!
+👨‍💻 Dedicated Software Engineer at the helm of Monetavers, a project poised to revolutionize money management. Concurrently laying the groundwork for my portfolio, where Vue, Three.js, and TailwindCSS come into play. In the rapid currents of tech, I stand resilient, always eager to harness the next wave of innovation.
 
 <br/>
 <br/>
