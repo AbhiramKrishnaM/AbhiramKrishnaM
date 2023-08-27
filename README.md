@@ -4,16 +4,13 @@
 <br/>
 <br/>
 
-<img align="right" alt="SVG" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/assets/coding.svg" width="360px" />
+<!-- <img align="right" alt="SVG" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/assets/coding.svg" width="360px" /> -->
   
 ### 🧐 More About Me:
-
-- 🔭 &nbsp; I’m currently working on some UI, Just some side projects.
-<!-- - 🌱 &nbsp; I’m currently learning Go and Svelte; -->
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/AbhiramKrishnaM?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/abhiram-krishna/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1oNDNq2zxZLuMA9rGPxsGKGx_avlUA9yQ/view?usp=sharing)
+<!-- - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1oNDNq2zxZLuMA9rGPxsGKGx_avlUA9yQ/view?usp=sharing) -->
   <br>
   <br>
 
