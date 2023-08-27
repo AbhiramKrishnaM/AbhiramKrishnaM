@@ -1,8 +1,4 @@
 ## Hey 👋, I'm Abhiram Krishna!
-
-<a href='https://www.linkedin.com/in/abhiram-krishna/'><img align='left' alt="linkedin" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/AbhiramKrishnaM'><img align='left' alt="twitter" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/assets/twitter.svg" height='18px'/></a>
-<br/>
 👨‍💻 Dedicated Software Engineer at the helm of Monetavers, a project poised to revolutionize money management. Concurrently laying the groundwork for my portfolio, where Vue, Three.js, and TailwindCSS come into play. In the rapid currents of tech, I stand resilient, always eager to harness the next wave of innovation.
 
 <br/>
@@ -93,6 +89,11 @@
 </a> -->
 
 <br>
+
+##
+<a href='https://www.linkedin.com/in/abhiram-krishna/'><img align='left' alt="linkedin" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/assets/linkedin.svg" height='18px'/></a>
+<a href='https://twitter.com/AbhiramKrishnaM'><img align='left' alt="twitter" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/assets/twitter.svg" height='18px'/></a>
+<br/>
 
 <!-- ### 🛠️ My Projects
 
