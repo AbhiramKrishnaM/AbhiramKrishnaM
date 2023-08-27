@@ -71,7 +71,7 @@
 
 - 📚 Reading: Engrossed in "Atomic Habits" by James Clear, delving into the science of habits and personal growth.
 
-##
+## 🌍 Social Links
 <a href='https://www.linkedin.com/in/abhiram-krishna/'><img align='left' alt="linkedin" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/AbhiramKrishnaM'><img align='left' alt="twitter" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/assets/twitter.svg" height='18px'/></a>
 <br/>
