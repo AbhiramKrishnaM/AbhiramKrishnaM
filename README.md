@@ -69,7 +69,7 @@
 
 - 🖥️ Portfolio Development: Actively working on designing and developing my personal portfolio website.
 
-- 📚 Reading: Engrossed in "Atomic Habits" by James Clear, delving into the science of habits and personal growth.
+- 📚 Reading: Engrossed in "The Subtle Art of Not Giving a F*ck" by Mark Manson, delving into the science of habits and personal growth.
 
 ## 🌍 Social Links
 <a href='https://www.linkedin.com/in/abhiram-krishna/'><img align='left' alt="linkedin" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/assets/linkedin.svg" height='18px'/></a>
