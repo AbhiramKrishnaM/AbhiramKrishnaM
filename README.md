@@ -5,54 +5,54 @@
   
 ## 🔨 Languages and Tools
 <a href="https://vuejs.org/" target="_blank"> 
-  <img align="left" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/vuejs.png" alt="pytorch" height="30px"/> 
+  <img align="left" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/vuejs.png" alt="Vue Js" height="30px"/> 
 </a>
 
 <a href="https://nuxtjs.org/" target="_blank"> 
-  <img align="left" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/nuxtjs.png" alt="tensorflow" height="30px"/> 
+  <img align="left" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/nuxtjs.png" alt="Nuxt Js" height="30px"/> 
 </a>
 
 <!-- <a href="https://svelte.dev/" target="_blank"><img align="left" alt="Python" height ="30px" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/svelte.png"></a> -->
 <!-- <a href="https://go.dev/" target="_blank"> <img align="left" alt="Android" height ="30px" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/go.png"> </a> -->
 
 <a href="https://nodejs.dev/" target="_blank">
-  <img align="left" alt="Kotlin" height ="30px" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/node.png" height="30px">
+  <img align="left" alt="Node Js" height ="30px" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/node.png" height="30px">
 </a>
 
 <a href="https://expressjs.com/" target="_blank">
-  <img align="left" alt="Java" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/express-js.png" height="30px">
+  <img align="left" alt="Express Js" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/express-js.png" height="30px">
 </a>
 
 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-  <img align="left" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/javascript.png" alt="firebase" height="30px"/> 
+  <img align="left" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/javascript.png" alt="Javascript" height="30px"/> 
 </a>
 
 <a href="https://www.typescriptlang.org/" target="_blank"> 
-  <img align="left" alt="JavaScript" height="30px"  src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/typescript.png"> 
+  <img align="left" alt="Typescript" height="30px"  src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/typescript.png"> 
 </a>
 
 
 <a href="https://www.docker.com/" target="_blank">
-  <img align="left" alt="Typescirpt" height="30px" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/docker.png">
+  <img align="left" alt="Docker" height="30px" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/docker.png">
 </a>
 
 <a href="https://git-scm.com/" target="_blank">
-  <img align="left" alt="React" height="30px" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/git.png">
+  <img align="left" alt="Git" height="30px" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/git.png">
 </a>
 
 <a href="https://www.postgresql.org/" target="_blank">
-  <img align="left" alt="Node.js" height ="30px" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/postgres.png">
+  <img align="left" alt="Postgres" height ="30px" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/postgres.png">
 </a>
 
 <a href="https://kubernetes.io/" target="_blank">
-  <img src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/kubernetes.png" align="left" alt="git" height='30px'/>
+  <img src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/kubernetes.png" align="left" alt="Kubernetes" height='30px'/>
 </a>
 
-<a href="https://aws.amazon.com/" target="_blank">
+<!-- <a href="https://aws.amazon.com/" target="_blank">
   <img src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/aws.png" align="left" alt="git" height='30px'/>
-</a>
+</a> -->
 
 
 <a href="https://redis.io" target="_blank">
