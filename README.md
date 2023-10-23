@@ -46,9 +46,9 @@
   <img align="left" alt="Postgres" height ="30px" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/postgres.png">
 </a>
 
-<a href="https://kubernetes.io/" target="_blank">
+<!-- <a href="https://kubernetes.io/" target="_blank">
   <img src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/kubernetes.png" align="left" alt="Kubernetes" height='30px'/>
-</a>
+</a> -->
 
 <!-- <a href="https://aws.amazon.com/" target="_blank">
   <img src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/aws.png" align="left" alt="git" height='30px'/>
