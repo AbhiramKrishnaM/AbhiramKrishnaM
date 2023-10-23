@@ -5,7 +5,7 @@
   
 ## 🔨 Languages and Tools
 <a href="https://vuejs.org/" target="_blank"> 
-  <img align="left" src="https://icons8.com/icon/rY6agKizO9eb/vue-js" alt="Vue Js" height="30px"/> 
+  <img align="left" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/icons/vuejs.png" alt="Vue Js" height="30px"/> 
 </a>
 
 <a href="https://nuxtjs.org/" target="_blank"> 
