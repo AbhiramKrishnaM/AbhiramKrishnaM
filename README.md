@@ -69,8 +69,6 @@
 
 - 🖥️ Portfolio Development: Actively working on designing and developing my personal portfolio website.
 
-- 📚 Reading: Engrossed in "The Subtle Art of Not Giving a F*ck" by Mark Manson.
-
 ## 🌍 Social Links
 <a href='https://www.linkedin.com/in/abhiram-krishna/'><img align='left' alt="linkedin" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/AbhiramKrishnaM'><img align='left' alt="twitter" src="https://github.com/AbhiramKrishnaM/AbhiramKrishnaM/blob/master/assets/twitter.svg" height='18px'/></a>
